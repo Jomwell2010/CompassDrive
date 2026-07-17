@@ -1,6 +1,6 @@
 # 🚗 CompassDrive
 
-An AI-powered driving tutor that helps users prepare for the California permit test with personalized, reliable guidance.
+An AI-powered driving tutor that helps users prepare for the California driving test with personalized, reliable guidance.
 
 🔗 **Live Demo:** https://compass-drive.replit.app
 
